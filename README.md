@@ -2,43 +2,43 @@
 Something personal
 
 
-## What I have Done:
+# What I have Done:
 
-# Hashing Check - just a simple SHA256 check of the file....
+## Hashing Check - just a simple SHA256 check of the file....
 
-# YARA applies rules to memory and Files
+## YARA applies rules to memory and Files
 
 
-# NDIS Driver - Detect Network etc...
+## NDIS Driver - Detect Network etc...
 
-# File MinFilter - Detect File System Changes
+## File MinFilter - Detect File System Changes
 
-# Process/Thread/Image Notification Driver + Registery + SelfProtection - 
+## Process/Thread/Image Notification Driver + Registery + SelfProtection - 
 
 Registery Protect our own keys, SelfProtection Protect our driver and service
 
 
-# Emulation - using Unicorn 
+## Emulation - using Unicorn 
 
-# Install Driver
+## Install Driver
 
-# Dump Process Memory from PID
+## Dump Process Memory from PID
 
-# Stores info in ETW, so info on IOC :)
+## Stores info in ETW, so info on IOC :)
 
-# Verification of Signature of Files
+## Verification of Signature of Files
 
-# Start of a Small javascript praser
+## Start of a Small javascript praser
 
-# Added small ML algorithim created from a dataset of malware and goodware.
+## Added small ML algorithim created from a dataset of malware and goodware.
 
-# UnPacking of the Following Packers:
+## UnPacking of the Following Packers:
 
 kkrunchy
 
 UPX
 
-# Beginning of a small malware scoring system:
+## Beginning of a small malware scoring system:
 
 Imports
 
@@ -55,7 +55,7 @@ Common Registery Keys Used by malware
 
 
 
-## What To Do:
+# What To Do:
 
 apply yara rules inside emulation ?
 
